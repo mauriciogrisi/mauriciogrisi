@@ -1,46 +1,25 @@
-# Hi there, I'm Mauricio! 👋
+Here’s the updated version with your additional skills included:
 
-Welcome to my GitHub profile! I'm passionate about software development and love to explore new technologies. Here's a bit about me:
+👋 Hi, I’m Mauricio Grisi!
 
-## 🚀 About Me
+🚀 Senior Node.js Developer | 💻 Full-Stack Developer | ☁️ Cloud & DevOps Explorer
 
-- 🌱 I’m currently learning advanced algorithms and data structures.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about web development, Python, and machine learning.
-- 📫 How to reach me: [grisimauricio@gmail.com](mailto:grisimauricio@gmail.com)
-- ⚡ Fun fact: I enjoy playing guitar and hiking in my free time.
+🛠 Tech Stack & Expertise:
+	•	Backend: Node.js (Express, GraphQL, Redis)
+	•	Frontend: React
+	•	Databases: MySQL, MongoDB, Sequelize, Mongoose
+	•	Scripting & Automation: Bash scripts
+	•	Cloud & DevOps: AWS services, Logstash, Elasticsearch, Kibana
 
-## 🛠️ Languages and Tools
+🔥 What I Do:
+	•	Build scalable, high-performance applications with Node.js
+	•	Develop interactive UIs with React
+	•	Work with AWS, Logstash, and Elasticsearch for data pipelines
+	•	Automate workflows and deployments using Bash scripting
+	•	Manage databases using MySQL, MongoDB, Sequelize, and Mongoose
 
-- **Programming Languages:**
-  - JavaScript all the way
+📫 Let’s Connect:
+	•	GitHub: You’re already here!
+	•	LinkedIn: Mauricio Grisi
 
-- **Web Development:**
-  - HTML
-  - CSS
-  - React
-  - Node.js
-
-- **Databases:**
-  - MySQL
-  - PostgreSQL
-  - MongoDB
-
-- **Tools & Platforms:**
-  - Git & GitHub
-  - Docker
-  - AWS
-  - ElasticSearch
-  - Redis
-  - Jenkins
-  - Logstash
-
-## 📈 GitHub Stats
-
-![Mauricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauriciogrisi&show_icons=true&theme=radical)
-
-## 📫 Connect with Me
-
-- LinkedIn: [linkedin.com/in/mauriciogrisi](https://www.linkedin.com/in/mauriciogrisi)
-
-Thanks for visiting my profile!
+🚀 Let's code!
