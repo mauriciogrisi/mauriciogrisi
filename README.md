@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mauricio Grisi!
 
-🚀 **Senior Node.js Developer** | 💻 **Full-Stack Developer** | ☁️ **Cloud & DevOps Explorer**  
+**Senior Node.js Developer** | 💻 **Full-Stack Developer** | ☁️ **Cloud & DevOps Explorer**  
 
 ## 🛠 Tech Stack & Expertise:
 - **Backend:** Node.js (Express, GraphQL, Redis)  
