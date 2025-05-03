@@ -14,7 +14,7 @@
 - Develop interactive UIs with **React**  
 - Work with **AWS, Logstash, and Elasticsearch** for data pipelines  
 - Automate workflows and deployments using **Bash scripting**  
-- DBs **MySQL, MongoDB ** && ORMs: **Sequelize, and Mongoose**  
+- DBs **MySQL, MongoDB** && ORMs: **Sequelize, and Mongoose**  
 
 ## 📫 Let's Connect:
 - **GitHub:** You're already here!  
