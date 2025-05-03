@@ -12,8 +12,9 @@
 ## 🔥 What I Do:
 - Build scalable, high-performance applications with **Node.js**  
 - Develop interactive UIs with **React**  
-- Work with **AWS, Logstash, and Elasticsearch** for data pipelines  
-- Automate workflows and deployments using **Bash scripting**  
+- Work with **AWS, Logstash, and Elasticsearch** for data pipelines.
+- Deploy containerized services in **EC2, ECS**, frontend projects in **S3**.
+- Handle CI/CD along **Jenkins, Github Actions**.
 - DBs **MySQL, MongoDB** && ORMs: **Sequelize, and Mongoose**  
 
 ## 📫 Let's Connect:
