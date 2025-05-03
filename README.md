@@ -20,4 +20,4 @@
 - **GitHub:** You're already here!  
 - **LinkedIn:** [Mauricio Grisi](https://www.linkedin.com/in/mauriciogrisi)
 
-🚀 ** Let's code! **
+🚀 **Let's code!** 🚀 
