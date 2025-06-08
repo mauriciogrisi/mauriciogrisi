@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mauricio Grisi!
+# 👋 Hi, I'm Mauricio!
 
 **Senior Node.js Developer** | 💻 **Full-Stack Developer** | ☁️ **Cloud & DevOps Explorer**  
 
